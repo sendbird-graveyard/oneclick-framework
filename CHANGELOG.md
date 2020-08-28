@@ -1,5 +1,11 @@
 # Change Log
 
+### v1.0.7 (Aug 28, 2020)
+* Fixed copying message bug
+* Fixed `myMutedState` is always muted issue
+* Improved stability
+
+
 ### v1.0.6 (Aug 28, 2020)
 * Added `addOperatorsWithUserIds:completionHandler:` to add operators to channel.
 * Added `removeOperatorsWithUserIds:completionHandler:` and `removeAllOperatorsWithCompletionHandler:` to remove operators from channel.
