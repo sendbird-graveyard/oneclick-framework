@@ -1,5 +1,14 @@
 # Change Log
 
+### v1.0.24 (Aug 28, 2020)
+* Reporting APIs.
+  * `reportUser:reportCategory:reportDescription:completionHandler:`
+  * `reportChannelWithCategory:reportDescription:completionHandler:`
+  * `reportMessage:reportCategory:reportDescription:completionHandler:`
+* New user event of `didUpdateTotalUnreadMessageCount:totalCountByCustomType:` to handle total unread message count.
+* Improved stability.
+
+
 ### v1.0.23 (Aug 28, 2020)
 * Fixed copying message bug
 * Fixed `myMutedState` is always muted issue

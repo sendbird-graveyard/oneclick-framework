@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OneClickDemo"
-  s.version      = "1.0.23"
+  s.version      = "1.0.24"
   s.summary      = "OneClickDemo iOS Framework"
   s.description      = "OneClickDemo distribution tool"
   s.license      = "MIT"
