@@ -1,0 +1,6 @@
+framework module OneClickDemo {
+  umbrella header "OneClickDemo.h"
+
+  export *
+  module * { export * }
+}
