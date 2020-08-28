@@ -1,9 +1,10 @@
 Pod::Spec.new do |s|
   s.name         = "OneClickDemo"
-  s.version      = "1.0.15"
+  s.version      = "1.0.16"
   s.summary      = "OneClickDemo iOS Framework"
   s.description      = "OneClickDemo iOS Framework"
   s.license      = "Commercial"
+  s.homepage     = "https://sendbird.com"
   s.authors      = {
         "Jed Gyeong" => "jed.gyeong@sendbird.com", 
   }
