@@ -1,6 +1,6 @@
 # Change Log
 
-### v1.0.8 (Aug 28, 2020)
+### v1.0.11 (Aug 28, 2020)
 * Fixed copying message bug
 * Fixed `myMutedState` is always muted issue
 * Improved stability
